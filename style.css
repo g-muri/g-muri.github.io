@@ -9,6 +9,23 @@ body {
     color: #dbd8d3; /* white */
 }
 
-h1 {
+h1, h2 {
     text-align: center;
+}
+
+
+ol.upper-roman{
+    list-style-type: upper-roman;
+}
+
+/*/// Links ///*/
+a {
+    color: lightskyblue;
+    text-decoration: none
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    color: lightcoral;
 }
