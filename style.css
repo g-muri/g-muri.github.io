@@ -1,0 +1,14 @@
+/* CSS files add styling rules to content */
+
+body {
+    font-family: 'Cambria Math';
+    font-size: 2em;
+
+    margin: 1.5em;
+    background-color: #1b1d1e; /* grey */
+    color: #dbd8d3; /* white */
+}
+
+h1 {
+    text-align: center;
+}
